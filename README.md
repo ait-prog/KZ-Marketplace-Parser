@@ -1,5 +1,3 @@
----
-````markdown
 <!-- PROJECT HEADER -->
 <h1 align="center">KZ Marketplace Parser</h1>
 
