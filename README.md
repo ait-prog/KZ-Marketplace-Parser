@@ -1,7 +1,4 @@
-ниже — готовый **красивый README** с «дизайном в стиле tools / Python»: бейджи, аккуратные секции, оглавление, архитектура и пример ссылки. просто **скопируй-вставь** в `README.md`.
-
 ---
-
 ````markdown
 <!-- PROJECT HEADER -->
 <h1 align="center">KZ Marketplace Parser</h1>
@@ -54,11 +51,11 @@
 
 ## Features
 
-- 🎯 **Two marketplaces** out of the box: krisha.kz & market.kz  
-- 💾 **Exports** to CSV and (optionally) XLSX  
-- 🧠 **Smart parsing**: price extraction, coarse category & city detection  
-- 🧰 **Robust HTTP**: retry/backoff, random User-Agent, optional SSL verification  
-- 🕘 **URL History** persisted to `history.json`, surfaced in the UI
+-  **Two marketplaces** out of the box: krisha.kz & market.kz  
+-  **Exports** to CSV and (optionally) XLSX  
+-  **Smart parsing**: price extraction, coarse category & city detection  
+-  **Robust HTTP**: retry/backoff, random User-Agent, optional SSL verification  
+-  **URL History** persisted to `history.json`, surfaced in the UI
 
 > Dependencies are in `requirements.txt` (Flet, Requests, BeautifulSoup, lxml, Pandas, OpenPyXL).
 
